@@ -2,9 +2,9 @@
 id: 1380
 title: "Profile"
 date: 2016-05-15T17:48:12+00:00
-author: jaxx2104
+author:
 layout: page
-path: "/profile"
+path: "/"
 
 guid: http://jaxx2104.info/?page_id=1380
 image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
@@ -13,14 +13,11 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
 
 <section class="text-center">
   <div class="container">
-    <img src="iwa.jpg" alt="jaxx2104" class="rounded-circle mx-auto d-block" width="120px">
-    <h1>jaxx2104</h1>
-    <p class="lead text-muted">コーラとバグが好き</p>
+    <img src="me.jpg" alt="me" class="rounded-circle mx-auto d-block" width="120px">
+    <h1>Andrew</h1>
     <div class="service-box">
-        <a href="https://github.com/jaxx2104"><i class="fa fa-github wow bounceIn" data-wow-duration="2.0s"></i></a>
-        <a href="https://twitter.com/jaxx2104"><i class="fa fa fa-twitter wow bounceIn" data-wow-duration="2.0s"></i></a>
-        <a href="https://www.facebook.com/futoshi.iwashita"><i class="fa fa fa-facebook wow bounceIn" data-wow-duration="2.0s"></i></a>
-        <a href="http://jaxx2104.tumblr.com/"><i class="fa fa fa-tumblr wow bounceIn" data-wow-duration="2.0s"></i></a>
+        <a href="https://github.com/andrewnoyes"><i class="fa fa-github wow bounceIn" data-wow-duration="2.0s"></i></a>
+        <a href="https://stackoverflow.com/users/3757297/androo"><i class="fa fa fa-stack-overflow wow bounceIn" data-wow-duration="2.0s"></i></a>
     </div>
   </div>
 </section>
@@ -29,7 +26,7 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
   <div class="container">
     <div class="row">
       <div class="col-lg-12 ">
-        <h2 class="section-heading">SKIL </h2>
+        <h2 class="section-heading">SKILLZ</h2>
         <hr class="primary" />
       </div>
     </div>
