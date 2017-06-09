@@ -1,7 +1,7 @@
 {
-  "version": "0.1.1",
-  "name": "gatsby-starter-bootstrap",
-  "description": "Simple starter for Gatsby",
+  "version": "0.0.1",
+  "name": "noyes.io",
+  "description": "Blog",
   "main": "n/a",
   "scripts": {
     "develop": "gatsby develop",
@@ -14,13 +14,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "gatsby build --prefix-links && gh-pages -d public"
   },
-  "keywords": [
-    "gatsby",
-    "gatstrap",
-    "starter"
-  ],
-  "author": "Futoshi Iwashita <jaxx2104@gmail.com>",
-  "license": "MIT",
+  "author": "Androooo",
   "dependencies": {
     "babel-plugin-add-module-exports": "^0.2.1",
     "babel-preset-es2015": "^6.9.0",
