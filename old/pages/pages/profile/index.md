@@ -13,7 +13,7 @@ image: /wp/images/2014/12/b0edb59d97976fb1c698b9997460f6e3-e1458137465824.jpg
 
 <section class="text-center">
   <div class="container">
-    <img src="me.jpg" alt="me" class="rounded-circle mx-auto d-block" width="120px">
+    <img src="/pages/profile/me.jpg" alt="me" class="rounded-circle mx-auto d-block" width="120px">
     <h1>Andrew</h1>
     <div class="service-box">
         <a href="https://github.com/andrewnoyes"><i class="fa fa-github wow bounceIn" data-wow-duration="2.0s"></i></a>
